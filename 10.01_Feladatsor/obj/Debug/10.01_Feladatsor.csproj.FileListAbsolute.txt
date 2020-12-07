@@ -1,0 +1,7 @@
+C:\Users\Peti\Desktop\10.01_Feladatsor\10.01_Feladatsor\bin\Debug\10.01_Feladatsor.exe.config
+C:\Users\Peti\Desktop\10.01_Feladatsor\10.01_Feladatsor\bin\Debug\10.01_Feladatsor.exe
+C:\Users\Peti\Desktop\10.01_Feladatsor\10.01_Feladatsor\bin\Debug\10.01_Feladatsor.pdb
+C:\Users\Peti\Desktop\10.01_Feladatsor\10.01_Feladatsor\obj\Debug\10.01_Feladatsor.csprojAssemblyReference.cache
+C:\Users\Peti\Desktop\10.01_Feladatsor\10.01_Feladatsor\obj\Debug\10.01_Feladatsor.csproj.CoreCompileInputs.cache
+C:\Users\Peti\Desktop\10.01_Feladatsor\10.01_Feladatsor\obj\Debug\10.01_Feladatsor.exe
+C:\Users\Peti\Desktop\10.01_Feladatsor\10.01_Feladatsor\obj\Debug\10.01_Feladatsor.pdb
